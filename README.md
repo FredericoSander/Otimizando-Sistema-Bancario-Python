@@ -1,4 +1,4 @@
-# Otimizando Sistema Bancario Python
+# Otimizando Sistema Bancário Python
 
 O projeto consiste na inserção de nova funcionalidades do projeto **[Conta bancaria Python](https://github.com/Sanderfn/Conta-bancaria-Python)**, este código oferece uma interface básica para simular operações bancárias, como depósito, saque, consulta de extratos e criação de usuários e conta.
 
